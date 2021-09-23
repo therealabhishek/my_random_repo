@@ -1,5 +1,8 @@
 ctivate C:\Users\kulkarni\Anaconda3
 mango
-apple
-grapes
 cherry
+
+
+tiger
+lion 
+deer
